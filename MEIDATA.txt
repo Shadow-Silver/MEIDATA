@@ -1,3 +1,0 @@
-info del proyecto: iniciemos
-
-Actividades: 1. Crear Conexion git
